@@ -1,6 +1,7 @@
-## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### This project demonstrates the use of components' state and props with [material UI](https://material-ui.com/)
 
-It demonstrates the use of components' state and props with [material UI](https://material-ui.com/)
+It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 #### To use [material UI](https://material-ui.com/):
 
@@ -8,8 +9,9 @@ It demonstrates the use of components' state and props with [material UI](https:
 
 import the components, e.g.:
 
-`import Button from '@material-ui/core/Button';
-import Tooltip from '@material-ui/core/Tooltip';`
+`import Button from '@material-ui/core/Button';`
+
+`import Tooltip from '@material-ui/core/Tooltip';`
 
 and use the components, e.g.:
 
